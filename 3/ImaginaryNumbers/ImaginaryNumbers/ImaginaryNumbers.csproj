@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>NikPlayAnon.ImaginaryNumbers</PackageId>
+    <Authors>NikPlayAnon</Authors>
+    <Product>ImaginaryNumbers</Product>
+    <Description>Library to operate with imaginary numbers</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Imaginary</PackageTags>
+  </PropertyGroup>
+
+</Project>

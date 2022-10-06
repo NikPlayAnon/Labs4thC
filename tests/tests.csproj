@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <Reference Include="DllComunVb2008">
+    <HintPath>..\3\ImaginaryNumbers\ImaginaryNumbers\bin\Debug\netcoreapp3.1\ImaginaryNumbers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

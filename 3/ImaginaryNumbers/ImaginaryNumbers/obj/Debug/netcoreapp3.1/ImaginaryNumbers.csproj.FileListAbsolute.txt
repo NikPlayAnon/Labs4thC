@@ -1,0 +1,10 @@
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\bin\Debug\netcoreapp3.1\ImaginaryNumbers.deps.json
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\bin\Debug\netcoreapp3.1\ImaginaryNumbers.dll
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\bin\Debug\netcoreapp3.1\ImaginaryNumbers.pdb
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.AssemblyInfo.cs
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.dll
+D:\codeBestiary\labsForK\3\ImaginaryNumbers\ImaginaryNumbers\obj\Debug\netcoreapp3.1\ImaginaryNumbers.pdb

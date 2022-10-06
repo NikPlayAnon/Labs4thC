@@ -6,8 +6,11 @@
   </PropertyGroup>
 
    <ItemGroup>
-    <Reference Include="DllComunVb2008">
+    <Reference Include="ImaginaryNumbers">
     <HintPath>..\3\ImaginaryNumbers\ImaginaryNumbers\bin\Debug\netcoreapp3.1\ImaginaryNumbers.dll</HintPath>
+    </Reference>
+    <Reference Include="AbstractClasses">
+    <HintPath>..\4\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>

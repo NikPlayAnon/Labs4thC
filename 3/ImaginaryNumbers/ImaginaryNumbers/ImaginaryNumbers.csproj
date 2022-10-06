@@ -8,6 +8,7 @@
     <Description>Library to operate with imaginary numbers</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Imaginary</PackageTags>
+    <RepositoryUrl>https://github.com/NikPlayAnon/Labs4thC/tree/WindowsPC/3/ImaginaryNumbers</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

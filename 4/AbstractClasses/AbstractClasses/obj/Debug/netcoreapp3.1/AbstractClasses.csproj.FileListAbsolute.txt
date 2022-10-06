@@ -1,0 +1,10 @@
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\codeBestiary\labsForK\4\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb

@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v5.0": {
       "tests/1.0.0": {
         "dependencies": {
+          "AbstractClasses": "1.0.0.0",
           "ImaginaryNumbers": "1.0.0.0"
         },
         "runtime": {
           "tests.dll": {}
+        }
+      },
+      "AbstractClasses/1.0.0.0": {
+        "runtime": {
+          "AbstractClasses.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ImaginaryNumbers/1.0.0.0": {
@@ -27,6 +36,11 @@
   "libraries": {
     "tests/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractClasses/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

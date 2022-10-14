@@ -1,0 +1,5 @@
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\obj\Debug\net5.0\4B.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\obj\Debug\net5.0\4B.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\obj\Debug\net5.0\4B.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\obj\Debug\net5.0\4B.AssemblyInfo.cs
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\obj\Debug\net5.0\4B.csproj.CoreCompileInputs.cache

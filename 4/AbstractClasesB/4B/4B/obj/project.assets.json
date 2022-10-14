@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\NikPlayAnon\\.nuget\\packages\\": {},
@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codeBestiary\\labsForK\\tests\\tests.csproj",
-      "projectName": "tests",
-      "projectPath": "D:\\codeBestiary\\labsForK\\tests\\tests.csproj",
+      "projectUniqueName": "D:\\codeBestiary\\labsForK\\4\\AbstractClasesB\\4B\\4B\\4B.csproj",
+      "projectName": "4B",
+      "projectPath": "D:\\codeBestiary\\labsForK\\4\\AbstractClasesB\\4B\\4B\\4B.csproj",
       "packagesPath": "C:\\Users\\NikPlayAnon\\.nuget\\packages\\",
-      "outputPath": "D:\\codeBestiary\\labsForK\\tests\\obj\\",
+      "outputPath": "D:\\codeBestiary\\labsForK\\4\\AbstractClasesB\\4B\\4B\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vsSheard\\NuGetPackages",
@@ -32,15 +32,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -51,8 +51,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",

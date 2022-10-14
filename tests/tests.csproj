@@ -12,5 +12,8 @@
     <Reference Include="AbstractClasses">
     <HintPath>..\4\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll</HintPath>
     </Reference>
+    <Reference Include="AbstractClasses">
+    <HintPath>..\4\AbstractClasesB\4B\4B\bin\Debug\netcoreapp3.1\4B.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

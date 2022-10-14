@@ -1,0 +1,10 @@
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.AssemblyInfo.cs
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\bin\Debug\netcoreapp3.1\4B.deps.json
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\bin\Debug\netcoreapp3.1\4B.dll
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\bin\Debug\netcoreapp3.1\4B.pdb
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.dll
+D:\codeBestiary\labsForK\4\AbstractClasesB\4B\4B\obj\Debug\netcoreapp3.1\4B.pdb

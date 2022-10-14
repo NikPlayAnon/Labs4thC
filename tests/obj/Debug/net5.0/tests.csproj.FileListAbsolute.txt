@@ -19,3 +19,5 @@ D:\codeBestiary\labsForK\tests\bin\Debug\net5.0\ImaginaryNumbers.pdb
 D:\codeBestiary\labsForK\tests\obj\Debug\net5.0\tests.csproj.CopyComplete
 D:\codeBestiary\labsForK\tests\bin\Debug\net5.0\AbstractClasses.dll
 D:\codeBestiary\labsForK\tests\bin\Debug\net5.0\AbstractClasses.pdb
+D:\codeBestiary\labsForK\tests\bin\Debug\net5.0\4B.dll
+D:\codeBestiary\labsForK\tests\bin\Debug\net5.0\4B.pdb

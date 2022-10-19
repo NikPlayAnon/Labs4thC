@@ -1,0 +1,22 @@
+﻿<Window x:Class="_5.b.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"  
+        xmlns:local="clr-namespace:_5.b"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid Name="myGrid">
+        <Label Name="lable1" Content="Create your lift!!! how many flors dose it have?" Margin="20,0,519,522" FontSize="20"/>
+        <TextBox Name="TextBox1" Margin="20,52,519,477"/>
+        <Button Name="Button1" Click="button1_clicked" Margin="20,98,519,433" Content="Enter amount" FontSize="20" VerticalContentAlignment="Top" />
+        <Image Name="lift" Source="images/elevatorX.png" Width="200" Height="300" Margin="566,167,26,102"/>
+        <Image Name="lift1" Source="images/elevatorX.png" Width="200" Height="300" Margin="566,52,26,217" Visibility="Hidden"/>
+        <Image Name="lift2" Source="images/elevatorX.png" Width="200" Height="300" Margin="566,98,26,171" Visibility="Hidden"/>
+        <Image Name="lift3" Source="images/elevatorX.png" Width="200" Height="300" Margin="566,208,26,61" Visibility="Hidden"/>
+        <Image Name="lift4" Source="images/elevatorX.png" Width="200" Height="300" Margin="566,243,26,26" Visibility="Hidden"/>
+        <Button Name="Door_action" Click="button_Door" Margin="322,505,408,26" Content="close" FontSize="20" VerticalContentAlignment="Top" IsEnabled="False" />
+        <Label Name="CFlore" Content="Curent flore: 1" Height="40" Width="200" Margin="293,95,299,434" FontSize="20"/>
+    </Grid>
+</Window>

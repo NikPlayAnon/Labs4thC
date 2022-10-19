@@ -1,0 +1,14 @@
+D:\codeBestiary\labsForK\5\5.a\5.a\bin\Release\5.a.exe.config
+D:\codeBestiary\labsForK\5\5.a\5.a\bin\Release\5.a.exe
+D:\codeBestiary\labsForK\5\5.a\5.a\bin\Release\5.a.pdb
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\MainWindow.g.cs
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\App.g.cs
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a_MarkupCompile.cache
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a_MarkupCompile.lref
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\MainWindow.baml
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a.g.resources
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\_5.a.Properties.Resources.resources
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a.csproj.GenerateResource.cache
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a.exe
+D:\codeBestiary\labsForK\5\5.a\5.a\obj\Release\5.a.pdb

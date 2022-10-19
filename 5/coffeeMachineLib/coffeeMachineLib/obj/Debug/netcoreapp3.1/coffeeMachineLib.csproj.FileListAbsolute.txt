@@ -1,0 +1,10 @@
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\bin\Debug\netcoreapp3.1\coffeeMachineLib.deps.json
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\bin\Debug\netcoreapp3.1\coffeeMachineLib.dll
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\bin\Debug\netcoreapp3.1\coffeeMachineLib.pdb
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.AssemblyInfo.cs
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.dll
+D:\codeBestiary\labsForK\5\coffeeMachineLib\coffeeMachineLib\obj\Debug\netcoreapp3.1\coffeeMachineLib.pdb

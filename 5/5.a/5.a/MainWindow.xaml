@@ -1,0 +1,35 @@
+﻿<Window x:Class="_5.a.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5.a"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+
+
+    <Grid>
+        <TextBox Margin="-550,-500,0,0" Name="TexBox1" Height="25" Width="200"></TextBox>
+        <Button Margin="-550,-425,0,0" Name="button1" Height="25" Width="200"  Click="button1_Click">Внести деньги</Button>
+        <StackPanel x:Name="stackPanel" Height="150" Width="100" Margin="-440,-0,0,0">
+            <CheckBox x:Name="checkBox1" IsThreeState="False" IsChecked="False" Height="40" Content="Сахар" Checked="HandleCheck" Unchecked="HandleCheck"/>
+            <CheckBox x:Name="checkBox2" IsThreeState="False" IsChecked="False" Height="40" Content="Молоко" Checked="HandleCheck" Unchecked="HandleCheck"/>
+        </StackPanel>
+        <StackPanel x:Name="stackPanel2" Height="150" Width="100" Margin="-640,0,0,0">
+            <RadioButton GroupName="coffee" Content="Американо" Height="40" Checked="RadioButton_Checked"/>
+            <RadioButton GroupName="coffee" Content="Капучино" Height="40" Checked="RadioButton_Checked"/>
+            <RadioButton GroupName="coffee" Content="Эспрессо" Height="40" Checked="RadioButton_Checked"/>
+            <RadioButton GroupName="coffee" Content="Какао" Height="40" Checked="RadioButton_Checked"/>
+        </StackPanel>
+        <Button Margin="-550,200,0,0" Name="button2" Height="25" Width="200"  Click="button2_Click" IsEnabled="False">Заварить</Button>
+        <Label Name="mony_now" Height="30" Width="200" Content="Внесенная сумма: 0" Margin="294,5,298,529"/>
+        <Label Name="mony_out" Height="30" Width="200" Content="Сдача: 0" Margin="294,38,298,501"/>
+        <Label Name="mony_for" Height="30" Width="200" Content="Цена напитка: 0" Margin="294,68,298,471"/>
+        <Image Name="Image_capuchino"  Source="Extraparts/capuchino.jpg"  Height="300" Width="550" Margin="232,228,10,41" Visibility="Hidden"/>
+        <Image Name="Image_americano" Source="Extraparts/americano.jpg"  Height="300" Width="550" Margin="232,228,10,41" Visibility="Visible"/>
+        <Image Name="Image_cacao" Source="Extraparts/cacao.jpg"  Height="300" Width="550" Margin="232,228,10,41" Visibility="Hidden"/>
+        <Image Name="Image_espresso" Source="Extraparts/espresso.jpg"  Height="300" Width="550" Margin="232,228,10,41" Visibility="Hidden"/>
+        <Image Name="Image_milk_endgoal" Source="Extraparts/milk_endgoal.png"  Height="200" Width="200" Margin="494,107,98,262" Visibility="Hidden"/>
+        <Image Name="Image_sugar" Source="Extraparts/sugar.jpg"  Height="200" Width="200" Margin="294,107,298,262" Visibility="Hidden"/>
+    </Grid>
+</Window>

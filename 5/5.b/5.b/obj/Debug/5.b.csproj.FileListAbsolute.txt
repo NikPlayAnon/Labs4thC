@@ -1,0 +1,15 @@
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\MainWindow.g.cs
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\App.g.cs
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b_MarkupCompile.cache
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b_MarkupCompile.lref
+D:\codeBestiary\labsForK\5\5.b\5.b\bin\Debug\5.b.exe.config
+D:\codeBestiary\labsForK\5\5.b\5.b\bin\Debug\5.b.exe
+D:\codeBestiary\labsForK\5\5.b\5.b\bin\Debug\5.b.pdb
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\MainWindow.baml
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.g.resources
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\_5.b.Properties.Resources.resources
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.csproj.GenerateResource.cache
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.exe
+D:\codeBestiary\labsForK\5\5.b\5.b\obj\Debug\5.b.pdb

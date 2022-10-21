@@ -1,0 +1,14 @@
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.exe
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.deps.json
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.runtimeconfig.json
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.runtimeconfig.dev.json
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.dll
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\bin\Debug\netcoreapp3.1\6.b.console.pdb
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.AssemblyInfo.cs
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.dll
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.pdb
+D:\codeBestiary\labsForK\6\6.b.console\6.b.console\obj\Debug\netcoreapp3.1\6.b.console.genruntimeconfig.cache

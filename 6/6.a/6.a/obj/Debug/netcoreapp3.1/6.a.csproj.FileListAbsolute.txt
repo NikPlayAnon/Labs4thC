@@ -1,0 +1,10 @@
+D:\codeBestiary\labsForK\6\6.a\6.a\bin\Debug\netcoreapp3.1\6.a.deps.json
+D:\codeBestiary\labsForK\6\6.a\6.a\bin\Debug\netcoreapp3.1\6.a.dll
+D:\codeBestiary\labsForK\6\6.a\6.a\bin\Debug\netcoreapp3.1\6.a.pdb
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.AssemblyInfoInputs.cache
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.AssemblyInfo.cs
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.dll
+D:\codeBestiary\labsForK\6\6.a\6.a\obj\Debug\netcoreapp3.1\6.a.pdb

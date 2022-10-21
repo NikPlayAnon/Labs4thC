@@ -1,0 +1,15 @@
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\bin\Debug\6.b.wpf.exe.config
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\bin\Debug\6.b.wpf.exe
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\bin\Debug\6.b.wpf.pdb
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.csproj.AssemblyReference.cache
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\MainWindow.g.cs
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\App.g.cs
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf_MarkupCompile.cache
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf_MarkupCompile.lref
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\MainWindow.baml
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.g.resources
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\_6.b.wpf.Properties.Resources.resources
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.csproj.GenerateResource.cache
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.csproj.CoreCompileInputs.cache
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.exe
+D:\codeBestiary\labsForK\6\6.b.wpf\6.b.wpf\obj\Debug\6.b.wpf.pdb
